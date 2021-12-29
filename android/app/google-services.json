@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1081256020143",
+    "project_id": "jamiicheck",
+    "storage_bucket": "jamiicheck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081256020143:android:4c2ef3796a422068faec5a",
+        "android_client_info": {
+          "package_name": "com.android.jamii_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081256020143-cpt5fhn95p72bv6anta2i6jq0tkrtd39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.jamii_check",
+            "certificate_hash": "ff946e5a7f2b35fd6a5c115bf0fce16f846b81f6"
+          }
+        },
+        {
+          "client_id": "1081256020143-0smm8dn1eu45en68p6u932n7msj7ijco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM5QNtfJcbpyLD23C1NEvCDKieNOuXA1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081256020143-0smm8dn1eu45en68p6u932n7msj7ijco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
